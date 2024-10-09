@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/webtoon/static/css/main.66a46790.css",
+    "main.js": "/webtoon/static/js/main.fdf79908.js",
+    "static/js/453.2a0906f0.chunk.js": "/webtoon/static/js/453.2a0906f0.chunk.js",
+    "static/media/heroimage.png": "/webtoon/static/media/heroimage.dd305a4fd4440904b71a.png",
+    "static/media/mainimage.webp": "/webtoon/static/media/mainimage.3b23aaf51ab8cecba779.webp",
+    "static/media/1.jpg": "/webtoon/static/media/1.a3fc2172c35cccaeccad.jpg",
+    "static/media/3.jpg": "/webtoon/static/media/3.c9b2ea60038567f1f5ec.jpg",
+    "static/media/2.jpg": "/webtoon/static/media/2.f4e280f574032e5626ea.jpg",
+    "static/media/zeus.webp": "/webtoon/static/media/zeus.585bb014a1425e15bb6e.webp",
+    "static/media/6.jpg": "/webtoon/static/media/6.12000ec1a023427cb3db.jpg",
+    "static/media/9.jpg": "/webtoon/static/media/9.5125ef5cb158e0bab854.jpg",
+    "static/media/5.jpg": "/webtoon/static/media/5.58145d16e8d545ccbcd1.jpg",
+    "static/media/8.jpg": "/webtoon/static/media/8.409f2ff7d981d435e6d0.jpg",
+    "static/media/4.jpg": "/webtoon/static/media/4.0253712e9d7ecdc6ad7e.jpg",
+    "static/media/10.jpg": "/webtoon/static/media/10.11acc1c7787ccfbe4bbc.jpg",
+    "static/media/7.jpg": "/webtoon/static/media/7.7a3765eebb46a891b405.jpg",
+    "static/media/eros.webp": "/webtoon/static/media/eros.d06aec5bbc201e4ab76b.webp",
+    "static/media/hades.webp": "/webtoon/static/media/hades.15e2da4bca6ad6d87280.webp",
+    "static/media/poseidon.webp": "/webtoon/static/media/poseidon.2572d718265eea5ae2b3.webp",
+    "static/media/heroimage 2.webp": "/webtoon/static/media/heroimage 2.33eda54b6e1fae9560b4.webp",
+    "static/media/persephone.webp": "/webtoon/static/media/persephone.0eb4850e4d4c9967b693.webp",
+    "index.html": "/webtoon/index.html",
+    "main.66a46790.css.map": "/webtoon/static/css/main.66a46790.css.map",
+    "main.fdf79908.js.map": "/webtoon/static/js/main.fdf79908.js.map",
+    "453.2a0906f0.chunk.js.map": "/webtoon/static/js/453.2a0906f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66a46790.css",
+    "static/js/main.fdf79908.js"
+  ]
+}
