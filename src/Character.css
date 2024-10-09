@@ -1,0 +1,56 @@
+/* src/CharactersSection.css */
+.characters-section {
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #fff;
+    text-align: left;
+  }
+  
+  .section-title {
+    font-size: 36px;
+    font-weight: bold;
+    color: #2c2c2c;
+    margin-bottom: 20px;
+  }
+  
+  .character {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-bottom: 30px;
+  }
+  
+  .character-name {
+    font-size: 28px;
+    font-weight: bold;
+    color: #2c2c2c;
+    margin-bottom: 10px;
+  }
+  
+  .character-image {
+    width: 50%; /* Image covers half the container width */
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .character-description {
+    font-size: 18px;
+    color: #333;
+    line-height: 1.5;
+  }
+  .button-container {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  @media (max-width: 768px) {
+    .character-card {
+      width: 120px; /* Smaller width for mobile */
+    }
+  
+    .section-title {
+      font-size: 1.5rem;
+    }
+  }

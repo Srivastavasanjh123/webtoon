@@ -1,0 +1,102 @@
+/* src/BestSupernaturalManhwa.css */
+.best-supernatural-manhwa {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .section-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .main-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+  }
+  
+  .intro-text {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: justify;
+  }
+  
+  .manhwa-item {
+    margin-bottom: 40px;
+  }
+  
+  .manhwa-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .manhwa-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+  }
+  
+  .manhwa-item p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 5px 0;
+  }
+  
+  .manhwa-item p strong {
+    font-weight: bold;
+    display: inline-block;
+  }
+  
+  .manhwa-description {
+    margin-top: 10px;
+    color: #555;
+    text-align: justify;
+  }
+  @media (max-width: 768px) {
+    .section-title {
+      font-size: 1.8rem;
+    }
+  
+    .intro-text {
+      font-size: 1rem;
+    }
+  
+    .manhwa-title {
+      font-size: 1.4rem;
+    }
+  
+    .manhwa-image {
+      max-width: 100%; /* Full width for mobile */
+    }
+  
+    .manhwa-description {
+      font-size: 0.9rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .section-title {
+      font-size: 1.5rem;
+    }
+  
+    .intro-text {
+      font-size: 0.9rem;
+    }
+  
+    .manhwa-title {
+      font-size: 1.2rem;
+    }
+  
+    .manhwa-description {
+      font-size: 0.8rem;
+    }
+  }
